@@ -14,4 +14,4 @@
 | *geometry*     | Geometría de la provincia (polígono)                              |
 | *2014-2022*      | Años en los que se analiza el número de beneficiarios                               |
 
-## 🔗 Enlace: https://alfredoharto.github.io/week2_spatial_reto_2/ 
+## 🔗 Enlace: https://alfredoaroterleira.github.io/week2_spatial_reto_2/ 
